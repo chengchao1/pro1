@@ -31,7 +31,7 @@
 
 
 .shopManage{width: 228px;float: left;padding-bottom: 20px; overflow: hidden;}
-.shopMiddle{width: 702px;height: 100%;margin: 0 21px 0 21px;background: #fff;}
+.shopMiddle{width: 702px;margin: 0 21px 0 21px;background: #fff; overflow: hidden;padding-bottom: 30px;}
 .factoryStore{height: 508px;width: 228px;border: 1px solid #e6e6e6;box-sizing: border-box;background: #fff;}
 .factoryName{width: 200px;margin: auto;height: 100%;}
 .factoryName h5{height: 46px;line-height: 46px;font-size: 21px;color: #666666;}
@@ -242,8 +242,15 @@
 .imgList a:hover img{border-color:#fe6601;}
 .imgList a:hover p{display: none;}
 
+/*add*/
+.shopPadding{padding:0 15px;}
+.shopPadding2{padding-right:28px;}
+.kindsList{}
+.kindsList p{float: left;margin-right: 30px;}
+.kindsList p i{font-size:14px;margin-left: 5px;}
 
+.shopRight{width:950px;float: right; background: #fff;padding-bottom: 30px;border: 1px solid #e6e6e6;}
 
-
-
-
+.inputList2{overflow: hidden;}
+.inputList2 li{height: 32px;float: left;margin-top: 15px;}
+.inputList2 p{width: 130px;text-align: right;float: left;color:#666;line-height: 32px;height: 32px;}

@@ -133,6 +133,7 @@ html,body{height: 100%;}
 .mB0{margin-bottom:0 !important;}
 .mL0{margin-left:0 !important;}
 .mTA{margin-top: 20px;}
+.mTA2{margin-top: 15px !important;}
 
 .pT0{padding-top:0 !important;}
 .pR0{padding-right:0 !important;}
@@ -211,6 +212,7 @@ html,body{height: 100%;}
 /*公共input*/
 .commonIpt{width:120px;height: 30px;border: 1px solid #e6e6e6;float: left; text-indent: 3px;color:#666;}
 .selectIcon{background: url("../images/index/down2.png") no-repeat right center #fff;float: left;}
+.inputBg{background: #f1f1f1;}
 /*字体大小*/
 .font12{font-size: 12px !important;}
 .distance1{height: 10px;display: block;}
